@@ -2,13 +2,13 @@
 
   build
   ```
-  $mkdir build
-  $cd build
-  $cmake ..
-  $make
+  mkdir build
+  cd build
+  cmake ..
+  make
   ```
 
   run
   ```
-  $./a.out
+  ./a.out
   ```
