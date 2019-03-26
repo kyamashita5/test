@@ -12,3 +12,6 @@
   ```
   ./a.out
   ```
+
+# document
+[test](https://kyamashita5.github.io/test/)
